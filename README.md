@@ -42,5 +42,3 @@ Latent space analysis combines dimensionality reduction techniques including t-S
 
 ![Feature Importance](assets/gene_importance.png) 
 *Figure 3: Top 20 genes by reconstructed feature importance*
-
-## Usage
